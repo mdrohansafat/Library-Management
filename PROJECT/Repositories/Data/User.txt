@@ -1,0 +1,10 @@
+fahimik,fahim@gmail.com,12345678,Male
+ABCD,abc@gmail.com,123445,Male
+rohanSafat,rohan@gmail.com,12345690,Male
+sadbin,sadbin@gmail.com,12345678,Male
+Abir,abir@gmail.com,sadbin12345,Male
+rohan,rohan780@gmail.com,A10$eruj,Male
+Sadbin,sadbin690@gmail.com,janina,Male
+SIDDIK,siddik@gmail.com,siddik1234,Male
+rohan,abir500@gmail.com,abir123,Male
+peter,peter@gmail.com,Peter123,Male
